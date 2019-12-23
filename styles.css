@@ -1,0 +1,251 @@
+@import "reset.css";
+
+body {
+  background: #ed0080
+}
+
+.block1 {
+position: absolute;
+width: 1300px;
+height: 2301px;
+left: 70px;
+top: 117px;
+}
+
+.matches {
+position: absolute;
+width: 1300px;
+height: 2301px;
+left: 218px;
+top: 33px;
+animation: matchez 5s ease-in infinite;
+}
+
+.matches1 {
+  position: absolute;
+  width: 1300px;
+  height: 2301px;
+  left: 378px;
+  top: -61px;
+  animation: matchez1 5s ease-in infinite;
+}
+
+.matches2 {
+  position: absolute;
+  width: 1300px;
+  height: 2301px;
+  left: 538px;
+  top: -153px;
+  animation: matchez2 5s ease-in infinite;
+}
+
+.matches3 {
+position: absolute;
+width: 1300px;
+height: 2301px;
+left: 690px;
+top: -241px;
+animation: matchez3 5s ease-in infinite;
+}
+
+.books1 {
+  position: absolute;
+  width: 1300px;
+  height: 2301px;
+  left: 277px;
+  top: -1px;
+  animation: bookz 3s ease-in infinite;
+}
+
+.books2 {
+  position: absolute;
+  width: 1300px;
+  height: 2301px;
+  left: 437px;
+  top: -95px;
+  animation: bookz2 3s ease-in infinite;
+}
+
+.books3 {
+position: absolute;
+width: 1300px;
+height: 2301px;
+left: 601px;
+top: -189px;
+animation: bookz3 3s ease-in infinite;
+}
+
+.box {
+  position: absolute;
+  width: 1300px;
+  height: 2301px;
+  left: 16px;
+  top: 229px;
+  animation: boz1 4s ease-in infinite;
+}
+
+.box2 {
+position: absolute;
+width: 1300px;
+height: 2301px;
+left: 622px;
+top: -202px;
+animation: boz2 4s ease-in infinite;
+}
+
+.box3 {
+  position: absolute;
+  width: 1300px;
+  height: 2301px;
+  left: 787px;
+  top: -296px;
+animation: boz3 4s ease-in infinite;
+}
+
+
+.block2 {
+position: absolute;
+width: 1300px;
+height: 2301px;
+left: 70px;
+top: 117px;
+}
+
+
+.block3 {
+position: absolute;
+width: 1300px;
+height: 2301px;
+left: 70px;
+top: 117px;
+}
+
+.trees {
+position: absolute;
+width: 1300px;
+height: 2301px;
+left: 38px;
+top: 135px;
+}
+
+.block4 {
+position: absolute;
+width: 1300px;
+height: 2301px;
+left: 70px;
+top: 117px;
+}
+
+.block5 {
+position: absolute;
+width: 1300px;
+height: 2301px;
+left: 70px;
+top: 117px;
+}
+
+.block6 {
+position: absolute;
+width: 1300px;
+height: 2301px;
+left: 70px;
+top: 117px;
+}
+
+.block7 {
+position: absolute;
+width: 1300px;
+height: 2301px;
+left: 70px;
+top: 117px;
+}
+
+@keyframes  matchez {
+  0% {
+    transform: translate( 0px, 0px);
+  }
+  100% {
+    transform: translate( -850px, 500px);
+  }
+}
+
+@keyframes bookz {
+  0% {
+    transform: translate( 0px, 0px);
+  }
+  100% {
+    transform: translate( -850px, 500px);
+  }
+}
+
+@keyframes bookz2 {
+  0% {
+    transform: translate( 0px, 0px);
+  }
+  100% {
+    transform: translate( -850px, 500px);
+  }
+}
+
+@keyframes bookz3 {
+  0% {
+    transform: translate( 0px, 0px);
+  }
+  100% {
+    transform: translate( -850px, 500px);
+  }
+}
+
+@keyframes boz1 {
+  0% {
+    transform: translate( 0px, 0px);
+  }
+  100% {
+    transform: translate(-850px, 500px);
+  }
+}
+
+@keyframes boz2 {
+  0% {
+    transform: translate( 0px, 0px);
+  }
+  100% {
+    transform: translate(-850px, 500px);
+  }
+}
+
+@keyframes boz3 {
+  0% {
+    transform: translate( 0px, 0px);
+  }
+  100% {
+    transform: translate(-850px, 500px);
+  }
+}
+
+@keyframes matchez1 {
+  0% {
+    transform: translate( 0px, 0px);
+  }
+  100% {
+    transform: translate( -850px, 500px);
+  }
+}
+
+@keyframes matchez2 {
+  0% {
+    transform: translate( 0px, 0px);
+  }
+  100% {
+    transform: translate( -850px, 500px);
+  }
+}
+
+@keyframes matchez3 {
+  0% {
+    transform: translate( 0px, 0px);
+  }
+  100% {
+    transform: translate( -850px, 500px);
+  }
+}
