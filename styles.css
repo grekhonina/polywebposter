@@ -12,7 +12,7 @@ left: 70px;
 top: 117px;
 }
 
-.matches {
+.matches1 {
 position: absolute;
 width: 1300px;
 height: 2301px;
@@ -77,6 +77,14 @@ top: 117px;
 }
 
 .block7 {
+position: absolute;
+width: 1300px;
+height: 2301px;
+left: 70px;
+top: 117px;
+}
+
+.text {
 position: absolute;
 width: 1300px;
 height: 2301px;
