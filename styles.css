@@ -1,7 +1,8 @@
 @import "reset.css";
 
 body {
-  background: #ed0080
+  background: #ed0080;
+  overflow-x: hidden;
 }
 
 .block1 {
